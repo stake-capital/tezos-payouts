@@ -3,6 +3,8 @@
 
 `Fee: 0%`
 
+`Operation hash: op7Dp8hsMXTP7cCHEndmvHiaJwzbeZUgUWMB12UWseS67NAmAYf`
+
 ```
 +--------------------------------------+-----------+------------+----------+------------+
 |               ADDRESS                |   SHARE   |   GROSS    |   FEE    |    NET     |

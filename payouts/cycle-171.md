@@ -1,4 +1,7 @@
 [`Dec 12, 2019 - 12:58:11`](https://tzstats.com/oo1Ymk52UFAjkSYx6JMZswRGHefLoSxG5ET4Nz3Lx4p91xQ3n2Q):
+
+`Fee: 10%`
+
 ```
 +--------------------------------------+-----------+------------+-----------+------------+
 |               ADDRESS                |   SHARE   |   GROSS    |    FEE    |    NET     |

@@ -1,10 +1,10 @@
-Jan 06, 2019:
+`2020/01/06 21:09:30`
 
-Fee: 0%
+`Fee: 0%`
+
+`Operation Hash: op7Dp8hsMXTP7cCHEndmvHiaJwzbeZUgUWMB12UWseS67NAmAYf`
 
 ```
-2020/01/06 21:09:30 Operation Hash: op7Dp8hsMXTP7cCHEndmvHiaJwzbeZUgUWMB12UWseS67NAmAYf
-
 +--------------------------------------+-----------+------------+----------+------------+
 |               ADDRESS                |   SHARE   |   GROSS    |   FEE    |    NET     |
 +--------------------------------------+-----------+------------+----------+------------+

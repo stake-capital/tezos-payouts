@@ -1,9 +1,7 @@
 
-[`2020/01/06 21:09:30`](https://tzstats.com/op7Dp8hsMXTP7cCHEndmvHiaJwzbeZUgUWMB12UWseS67NAmAYf):
+[`Jan 07, 2020 - 11:05:32`](https://tzstats.com/ooPsbjJJEwpujmBm4WEX58PTBJVMSBB7fuNVtBK77qYw9mDcCLf):
 
 `Fee: 0%`
-
-`Operation hash: op7Dp8hsMXTP7cCHEndmvHiaJwzbeZUgUWMB12UWseS67NAmAYf`
 
 ```
 +--------------------------------------+-----------+------------+----------+------------+

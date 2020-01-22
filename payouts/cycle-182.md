@@ -1,4 +1,4 @@
-[`Jan 22, 2020 - 14:35:00`](https://tzstats.com/ooB9rPGFFRTejjdjURUwippT1WXCkJHHf6uupPMo46XdUPJyT7P), [`Jan 22, 2020 - 14:42:32`](https://tzstats.com/opJffyzHt882MCEvpN46yzqm6ugJiaysrUmZJj9AW2N5BdZinzd):
+[`Jan 22, 2020 - 14:35:00`](https://tzstats.com/ooB9rPGFFRTejjdjURUwippT1WXCkJHHf6uupPMo46XdUPJyT7P), [`Jan 22, 2020 - 14:52:32`](https://tzstats.com/ooPbZ35HX1eyDqXVU5vBNvfr2veKxdsp6Zydz9EUsDzaiD5N7EM):
 
 ```
 Fee: 0%
@@ -75,7 +75,6 @@ Fee: 0%
 | KT1KHSgro3py2nnACjnkjRRRH7RYSjB9aXpj |  0.076859 |   0.143265 | 0.000000 |   0.143265 |
 | KT1WGDtvK1KkUNDASSwifDL5TebEVtMZ6afz |  0.187744 |   0.349955 | 0.000000 |   0.349955 |
 | KT1L4TQiu17xupn3ph2U2k3kQiYwnNj1vfaW |  0.355061 |   0.661833 | 0.000000 |   0.661833 |
-| tz1ZTTneoKvESDuarWdXCmQFfug6V2urX5Qi |  0.005108 |   0.009521 | 0.000000 |   0.009521 |
 | KT1KLRcd8pnotvsCFN9GYFoqemrVGm46qfNv |  0.008119 |   0.015134 | 0.000000 |   0.015134 |
 | KT1JMYavPEzjZ5XdyQsNkkaDycapJARLr7zQ |  2.326914 |   4.337367 | 0.000000 |   4.337367 |
 | KT1Pc4vDuWPWaVKY2KYZb3ZSNb7xDyMWg7ou |  0.006400 |   0.011929 | 0.000000 |   0.011929 |
@@ -123,6 +122,6 @@ Fee: 0%
 | KT1DUX94ze5cJyoDBi8NoGKKibnV8JpTed2B |  0.000579 |   0.001079 | 0.000000 |   0.001079 |
 | KT1CA9msNjX4K8rgU9UxjASb2Pg4qXYjHvWB |  0.097678 |   0.182071 | 0.000000 |   0.182071 |
 +--------------------------------------+-----------+------------+----------+------------+
-|                                          TOTAL   | 155.162783 | 0.000000 | 155.162783 |
+|                                          TOTAL   | 155.153262 | 0.000000 | 155.153262 |
 +--------------------------------------+-----------+------------+----------+------------+
 ```

@@ -1,8 +1,10 @@
-+-------+--------------------------------------+--------+------------+-----------+
-| CYLCE |                BAKER                 | WALLET |  REWARDS   | OPERATION |
-+-------+--------------------------------------+--------+------------+-----------+
-|   286 | tz1Z3KCf8CLGAYfvVWPEr562jDDyWkwNF7sT | N/A    | 212.500000 | N/A       |
-+-------+--------------------------------------+--------+------------+-----------+
+```
++-------+--------------------------------------+--------------------------------------+------------+-------------------------------------------------------------------------+
+| CYLCE |                BAKER                 |                WALLET                |  REWARDS   |                                OPERATION                                |
++-------+--------------------------------------+--------------------------------------+------------+-------------------------------------------------------------------------+
+|   286 | tz1Z3KCf8CLGAYfvVWPEr562jDDyWkwNF7sT | tz1XFMUQwMMcJ1bMyZMMbuPyH71gEAjVDh4V | 212.500000 | ,                                                                       |
+|       |                                      |                                      |            | https://tzstats.com/ontDMPGfPXwYEhi7yFTU4dzswNfPAZVGvuH2H8YcKZ97tPUk1J9 |
++-------+--------------------------------------+--------------------------------------+------------+-------------------------------------------------------------------------+
 +--------------------------------------+----------+-----------+------------+-----------+
 |              DELEGATION              |  SHARE   |   GROSS   |    NET     |    FEE    |
 +--------------------------------------+----------+-----------+------------+-----------+
@@ -486,3 +488,17 @@
 +--------------------------------------+----------+-----------+------------+-----------+
 |                                                     TOTAL   | 151.802289 | 16.866702 |
 +--------------------------------------+----------+-----------+------------+-----------+
+```
+
+Batches: 
+
+```
+INFO[0001] Confirming injection.                         hash=onjd9fyVLUfiYALsFcRXbw9mRQSoWkT99cMgJJVYgnogEpK6XPF operation=1/4
+INFO[0054] Injection confirmed.                          hash=onjd9fyVLUfiYALsFcRXbw9mRQSoWkT99cMgJJVYgnogEpK6XPF operation=1/4
+INFO[0054] Confirming injection.                         hash=opEHHWaLy1jukr8pKkZ38MA3GTp6wQQUvtMML5SayoJcnMufkd5 operation=2/4
+INFO[0113] Injection confirmed.                          hash=opEHHWaLy1jukr8pKkZ38MA3GTp6wQQUvtMML5SayoJcnMufkd5 operation=2/4
+INFO[0114] Confirming injection.                         hash=onswYYvCV7udvRsuuQzU8u3wL2EgWVbnkRf3tkJmxkUc67QWb5t operation=3/4
+INFO[0174] Injection confirmed.                          hash=onswYYvCV7udvRsuuQzU8u3wL2EgWVbnkRf3tkJmxkUc67QWb5t operation=3/4
+INFO[0174] Confirming injection.                         hash=ontDMPGfPXwYEhi7yFTU4dzswNfPAZVGvuH2H8YcKZ97tPUk1J9 operation=4/4
+INFO[0231] Injection confirmed.                          hash=ontDMPGfPXwYEhi7yFTU4dzswNfPAZVGvuH2H8YcKZ97tPUk1J9 operation=4/4
+```

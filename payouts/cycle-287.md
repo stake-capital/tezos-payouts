@@ -501,7 +501,7 @@ INFO[0133] Confirming injection.                         hash=ooqDqmXe7WG8BJaR8C
 INFO[0196] Injection confirmed.                          hash=ooqDqmXe7WG8BJaR8Cu4caui7AuejPcC9p52xTRaLVzhFeVcAjE operation=4/4
 ```
 
-get_cycle_unrevealed.sh 287 ~/tzpay-blacklist.json
+get_cycle_unrevealed.sh 287 
 
 ```
 tz1aMhteQb4cnKrrNGALgpn9JKyhp5mVGFKQ is NOT revealed

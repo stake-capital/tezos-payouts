@@ -5,6 +5,7 @@ INFO[0064] Injection confirmed.                          hash=opBKwoB1ppvvuJPxQs
 INFO[0064] Payout for cycle complete.
 ```
 
+```
 {
   "cycle": 301,
   "stakingBalance": 409220270883,
@@ -1066,3 +1067,4 @@ INFO[0064] Payout for cycle complete.
   "baker_share": 0.118839017231637,
   "collected_fees": 16764862
 }
+```

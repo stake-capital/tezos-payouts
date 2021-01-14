@@ -1,5 +1,5 @@
 ```
-ubuntu@ip-10-0-1-145:~/Tezos/payman$ go run main.go run 311 --table
+go run main.go run 311 --table
 INFO[0178] Confirming injection.                         hash=ooXJpu7rgibY7Ut8u78hrtWQQCYj79ZdaHKybpaD1FXPRefqRiw operation=1/4
 INFO[0247] Injection confirmed.                          hash=ooXJpu7rgibY7Ut8u78hrtWQQCYj79ZdaHKybpaD1FXPRefqRiw operation=1/4
 INFO[0247] Confirming injection.                         hash=onjs8xdZs9qDAPkUKVKSEkDMiJZfKmgpfHoCBNuGJXnbHx415Zf operation=2/4

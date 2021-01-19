@@ -1,10 +1,18 @@
 ```
-go run main.go dryrun 312 --table
-+-------+--------------------------------------+----------+----------+----------+-----------+------------+
-| CYLCE |                BAKER                 |  SHARE   | REWARDS  |   FEES   |   TOTAL   | OPERATIONS |
-+-------+--------------------------------------+----------+----------+----------+-----------+------------+
-|   312 | tz1Z3KCf8CLGAYfvVWPEr562jDDyWkwNF7sT | 0.129856 | 8.386527 | 5.041888 | 13.428415 | N/A        |
-+-------+--------------------------------------+----------+----------+----------+-----------+------------+
+go run main.go run 312 --table
+Confirming injection.                         hash=ooB9f84JuobikdWNenAdWunnW18iegAwvKcnrd6McYfXLniH6Hf operation=1/4
+Injection confirmed.                          hash=ooB9f84JuobikdWNenAdWunnW18iegAwvKcnrd6McYfXLniH6Hf operation=1/4
+Confirming injection.                         hash=ooYE7GsuTHjE4eFkEPFXZxS25iFoWVDqfcouTqtuJ3Dy6qAubgk operation=2/4
+Injection confirmed.                          hash=ooYE7GsuTHjE4eFkEPFXZxS25iFoWVDqfcouTqtuJ3Dy6qAubgk operation=2/4
+Confirming injection.                         hash=ooa1DCeguEdTRE2ZDJ1wS92gHe7FTvNrWhG5dDVdhTpreYbE6CY operation=3/4
+Injection confirmed.                          hash=ooa1DCeguEdTRE2ZDJ1wS92gHe7FTvNrWhG5dDVdhTpreYbE6CY operation=3/4
+Confirming injection.                         hash=ooHvkPtYmDpRRhoWMk5cc7FoAH2xvYYqvjaASFwscNahcd3iNcC operation=4/4
+Injection confirmed.                          hash=ooHvkPtYmDpRRhoWMk5cc7FoAH2xvYYqvjaASFwscNahcd3iNcC operation=4/4
++-------+--------------------------------------+----------+-----------+-----------+-----------+---------------------------------------------------------------------+
+| CYLCE |                BAKER                 |  SHARE   |  REWARDS  |   FEES    |   TOTAL   |                             OPERATIONS                              |
++-------+--------------------------------------+----------+-----------+-----------+-----------+---------------------------------------------------------------------+
+|   312 | tz1Z3KCf8CLGAYfvVWPEr562jDDyWkwNF7sT | 0.129856 | 8.386527  | 5.041888  | 13.428415 | https://tzkt.io/ooHvkPtYmDpRRhoWMk5cc7FoAH2xvYYqvjaASFwscNahcd3iNcC |
++-------+--------------------------------------+----------+-----------+-----------+-----------+---------------------------------------------------------------------+
 +--------------------------------------+-------------+----------+----------+-----------+----------+
 |              DELEGATION              | BLACKLISTED |  SHARE   |  GROSS   |    NET    |   FEE    |
 +--------------------------------------+-------------+----------+----------+-----------+----------+
